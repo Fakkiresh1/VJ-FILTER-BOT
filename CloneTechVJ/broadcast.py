@@ -1,8 +1,8 @@
-# Don't Remove Credit @VJ_Bots
+# Don't Remove Credit
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Ask Doubt on telegram 
 
-# Clone Code Credit : YT - @Tech_VJ / TG - @VJ_Bots / GitHub - @VJBots
+# Clone Code Credit :
 
 import datetime, time, asyncio
 from pyrogram import Client, filters
